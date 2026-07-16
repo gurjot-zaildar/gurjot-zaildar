@@ -111,11 +111,9 @@ Full Stack MERN Developer • React Developer • Problem Solver
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=gurjot-zaildar&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=gurjot-zaildar&theme=tokyonight&show_icons=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=gurjot-zaildar&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 # 📈 Contribution Graph
@@ -132,7 +130,7 @@ Full Stack MERN Developer • React Developer • Problem Solver
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=Baloo&ext=heatmap"/>
+<img src="https://leetcard.jacoblin.cool/gurjot_singh_coder?theme=dark&font=Baloo&ext=heatmap"/>
 
 </p>
 ---
