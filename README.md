@@ -12,8 +12,9 @@ Full Stack MERN Developer • React Developer • Problem Solver
 
 ---
 
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:0078FF&height=180&section=header&text=Welcome%20To%20My%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-
+</p>
 # 💫 About Me
 
 <img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
@@ -194,7 +195,11 @@ Full Stack MERN Developer • React Developer • Problem Solver
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=gurjot-zaildar&style=for-the-badge&color=blue"/>
+<img src="https://img.shields.io/github/followers/gurjot-zaildar?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/gurjot-zaildar?style=for-the-badge"/>
 
 </p>
-
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078FF,100:00F5FF&height=120&section=footer"/>
+</p>
