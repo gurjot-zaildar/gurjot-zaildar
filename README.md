@@ -108,8 +108,9 @@ Full Stack MERN Developer • React Developer • Problem Solver
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.shion.dev/api?username=gurjot-zaildar&theme=tokyonight&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=gurjot-zaildar&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=gurjot-zaildar&theme=tokyonight&hide_border=true"/>
+
 </p>
 ---
 
