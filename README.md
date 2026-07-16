@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi 👋, I'm Gurjot Singh</h1>
 
 <h3 align="center">
@@ -126,14 +128,13 @@ Full Stack MERN Developer • React Developer • Problem Solver
 
 ---
 
-# 🏆 GitHub Trophies
+# LeetCode
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=gurjot-zaildar&theme=algolia&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true"/>
+<img src="https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=Baloo&ext=heatmap"/>
 
 </p>
-
 ---
 
 # 🐍 Contribution Snake
